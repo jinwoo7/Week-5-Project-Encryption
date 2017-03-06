@@ -78,6 +78,7 @@ The following objectives are **optional**:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/rDw1xuO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://i.imgur.com/rDw1xuO.gif -> if the video isn't avilable
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
