@@ -55,7 +55,7 @@ IRzgpd7Tjz4bmVPag+J6h4O6ZfF2c02UoDvncj+6lsEpLyVLDhPOxQzPuYmJ6AH3OHUxqWvdbxYXY1XT
 
 8\. Identify the Double Agent
   * [x]  Required: Decrypt as many email messages as possible
-  * [x]  Required: Identify the double agent: ____Austin_____
+  * [x]  Required: Identify the double agent: They tried to blame Austin but the double agent is Natasha.
 
 The following objectives are **optional**:
 
